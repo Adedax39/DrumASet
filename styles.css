@@ -17,31 +17,73 @@ footer {
 }
 
 .w {
-
+  background: url("images/crash.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .a {
-
+  background: url("images/kick.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .s {
-
+  background: url("images/snare.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .d {
-
+  background: url("images/tom1.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .j {
-
+  background: url("images/tom2.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .k {
-
+  background: url("images/tom3.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .l {
-
+  background: url("images/tom4.png") no-repeat scroll 0 0 transparent;
+  color: #000000;
+  cursor: pointer;
+  font-weight: bold;
+  height: 20px;
+  padding-bottom: 2px;
+  width: 75px;
 }
 
 .set {
